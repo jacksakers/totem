@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "775540425834",
+    "firebase_url": "https://totem-7030d-default-rtdb.firebaseio.com",
+    "project_id": "totem-7030d",
+    "storage_bucket": "totem-7030d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775540425834:android:217c367aab5c633d463613",
+        "android_client_info": {
+          "package_name": "com.jsakers.totem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775540425834-o9juggd19f2kmntr3ajf9mjjmnv48tpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCVgORxwKVZC8xuz0Gevw89jbt4K3s04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775540425834-o9juggd19f2kmntr3ajf9mjjmnv48tpd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775540425834-h0o0ju3h06vfng4avn5tk1mcjdqj1c9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.totem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
